@@ -1,0 +1,6 @@
+@Healthcare.FhirIntakeService_HostAddress = http://localhost:5095
+
+GET {{Healthcare.FhirIntakeService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

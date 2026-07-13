@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Healthcare.FhirIntakeService/Healthcare.FhirIntakeService.csproj" />
+  </Folder>
 </Solution>
